@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 200;
+    justify-content: center;
+    list-style-type: none;
+    border-bottom: 0.1rem solid white;
+    position: fixed;
+    top: 0%;
+    background: black;
+    width: 100%;
+    z-index: 1;
+}
+
+.list{
+        text-align: center;
+        margin-left: 2cm;
+        margin-right: 2cm;
+        padding: 2px;
+        padding-bottom: 30px;
+        color: white;
+}
